@@ -1,0 +1,12 @@
+{
+  "itens": [
+    {
+      "id": 1,
+      "nome": "Desinfetante"
+    },
+    {
+      "id": 2,
+      "nome": "Álcool"
+    }
+  ]
+}

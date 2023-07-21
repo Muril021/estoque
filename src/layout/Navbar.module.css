@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.3em 0;
+  background-color: #272829;
+}
+
+.navbar ul {
+  margin: 0 2em;
+  list-style: none;
+}
+
+.logo {
+  text-decoration: none;
+  color: #2a9c01;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
