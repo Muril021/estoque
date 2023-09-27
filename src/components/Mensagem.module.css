@@ -1,0 +1,23 @@
+.sucesso {
+  border: 1px solid #c3ecbc;
+  border-radius: 5px;
+  margin: 1em;
+  padding: 1.2em 0;
+  text-align: center;
+  background-color: #c3ecbc;
+  color: #9ad891;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.erro {
+  border: 1px solid #f9a598;
+  border-radius: 5px;
+  margin: 1em;
+  padding: 1.2em 0;
+  text-align: center;
+  background-color: #f9a598;
+  color: #f7857c;
+  font-weight: bold;
+  font-size: 18px;
+}

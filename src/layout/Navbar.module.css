@@ -1,13 +1,15 @@
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: 1.3em 0;
+  padding: 1em 0;
   background-color: #272829;
 }
 
 .navbar ul {
   margin: 0 2em;
   list-style: none;
+  display: flex;
+  align-items: center;
 }
 
 .logo {

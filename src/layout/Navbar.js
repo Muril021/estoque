@@ -10,11 +10,6 @@ const Navbar = () => {
           <Link to='/' className={styles.logo}>Estoque</Link>
         </li>
       </ul>
-      <ul>
-        <li>
-          <Link to='/cadastrar' className={styles.link}>Cadastrar</Link>
-        </li>
-      </ul>
     </nav>
   );
 }

@@ -1,10 +1,8 @@
-import { Link } from "react-router-dom";
-
 import styles from './Botao.module.css';
 
-const Botao = ({to, text}) => {
+const Botao = ({type, text}) => {
   return (
-    <Link to={to} className={styles.botao}>{text}</Link>
+    <button type={type} className={styles.botao}>{text}</button>
   );
 }
 

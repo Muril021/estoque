@@ -1,0 +1,47 @@
+.itens {
+  padding: 0.3em 0;
+}
+
+.nome {
+  font-size: 14px;
+  text-align: center;
+}
+
+.qtd {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.edit {
+  padding: 0.3em 0.7em;
+  border: 1px solid #1d44b8;
+  border-radius: 5px;
+  background-color: #1d44b8;
+  color: #868eda;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 14px;
+  margin-right: 5px;
+  opacity: 0.7;
+}
+
+.remove {
+  padding: 0.3em 0.7em;
+  border: 1px solid #f31f00;
+  border-radius: 5px;
+  background-color: #f31f00;
+  color: #f9a59b;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+.edit:hover,
+.remove:hover {
+  opacity: 1;
+  transition: all ease 0.5s;
+}
